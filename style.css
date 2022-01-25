@@ -1,0 +1,20 @@
+table {
+	color:blue;
+}
+
+.privet {
+	color:yellow;
+}
+
+.font-size-md {
+	font-size: 18px;
+}
+
+.font-size-md.color-red {
+	color: red;
+
+}
+
+.font-size-md.color-black {
+	color: black;
+}
